@@ -8,3 +8,5 @@
 2.2 Инициализировать слой tf.keras.layers.Embedding по умолчанию (ну то есть вам ничего не делать с весами)
  				
 Сравнить две архитектуры с предобученными весами и когда tf.keras.layers.Embedding обучается сразу со всей сеточкой, что получилось лучше
+
+[Code on colab](https://colab.research.google.com/drive/1aJzCpuB8mv9LItsxwUNSA0pQdO6sbmVP?usp=sharing)
